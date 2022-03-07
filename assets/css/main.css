@@ -2039,7 +2039,7 @@
 		position: relative;
 		margin: 1.75em 1.5em 1.5em 1.5em;
 		/*min-height: 48px;*/
-		min-height: 75%;
+		min-height: 50%;
 		cursor: default;
 	}
 
