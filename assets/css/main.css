@@ -2043,22 +2043,20 @@
 	}
 
 		#logo h1 {
-			position: absolute;
+			position: relative;
 			color: #fff;
 			font-weight: 600;
 			font-size: 1em;
 			line-height: 1em;
-			top: 500;
 		}
 
 		#logo p {
-			position: absolute;
+			position: relative;
 			display: block;
 			font-size: 0.6em;
 			color: rgba(255, 255, 255, 0.5);
 			line-height: 1.25em;
 			margin: 0.5em 0 0 0;
-			top: 1000;
 		}
 
 		#logo .image {
