@@ -1996,7 +1996,7 @@
 		position: fixed;
 		text-align: right;
 		top: 0;
-		width: 375px;
+		width: 20%;
 	}
 
 		#header .top {
@@ -2038,8 +2038,7 @@
 	#logo {
 		position: relative;
 		margin: 1.75em 1.5em 1.5em 1.5em;
-		/*min-height: 48px;*/
-		min-height: 50%;
+		min-height: 375px;
 		cursor: default;
 	}
 
@@ -2049,6 +2048,8 @@
 			font-weight: 600;
 			font-size: 1em;
 			line-height: 1em;
+			top:275px;
+			text-align:left;
 		}
 
 		#logo p {
@@ -2058,6 +2059,8 @@
 			color: rgba(255, 255, 255, 0.5);
 			line-height: 1.25em;
 			margin: 0.5em 0 0 0;
+			top:300px;
+			text-align:left;
 		}
 
 		#logo .image {
